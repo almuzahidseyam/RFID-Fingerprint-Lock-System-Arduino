@@ -1,0 +1,17 @@
+﻿# Arduino
+*.elf
+*.hex
+*.eep
+*.bin
+*.lss
+*.sym
+*.map
+build/
+.vscode/
+
+# Large files
+*.mp4
+*.avi
+*.mkv
+*.rar
+*.zip
